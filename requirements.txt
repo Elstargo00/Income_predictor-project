@@ -1,0 +1,10 @@
+flask-bootstrap
+flask-login 
+flask-wtf 
+flask-sqlalchemy 
+flask-bcrypt 
+pillow 
+stripe 
+pandas 
+scikit-learn 
+

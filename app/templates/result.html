@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div>
+  <h2>Your Income Categories is:</h2>
+</div>
+
+{% if prediction %}
+<h1>Higher than 50000$ / Year! :)</h1>
+{% else %}
+<h1>Lower than 50000$ / Year! :c</h1>
+{% endif %}
+
+ 
+{% endblock %}

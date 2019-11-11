@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <div>
+    <h2>Only $0.99</h2>
+    <p>to predict your salary based on your daily productivities</p>
+    <form action="/charge" method="post">
+      <script
+        src="https://checkout.stripe.com/checkout.js"
+        class="stripe-button"
+        data-key="{{ key }}"
+        data-description="Pay Now!!"
+        data-amount="99"
+        data-locale="auto">
+      </script>
+    </form>
+  </div>
+{% endblock %}

@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div>
+  <h2>Thanks, you paid <strong>$0.99</strong>!</h2>
+</div>
+
+<div class="content-section">
+
+  <form method='POST' , action="/predict">
+    {{ form.hidden_tag() }}
+
+    <fieldset class="form-group">
+      <legend> Income Predictor </legend>
+
+
+      {{ form.hrwkwk.label(class="form-control-label") }}<br>
+      {{ form.hrwkwk(class="form-control form-control-lg") }}<br>
+
+      {{ form.education.label(class="form-control-label") }}<br>
+      {{ form.education(class="form-control form-control-lg") }}<br>
+
+      {{ form.age.label(class="form-control-label") }}<br>
+      {{ form.age(class="form-control form-control-lg") }}<br>
+
+
+    </fieldset>
+
+    <div class="form-group">
+      {{ form.submit(class='btn btn-outline-info') }}
+    </div>
+
+  </form>
+
+</div>
+{% endblock %}
