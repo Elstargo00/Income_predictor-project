@@ -14,24 +14,31 @@ Let's review
 
 Here are some of the screenshots shown how it works:
 
-![alt text](https://github.com/Elstargo00/Income_predictor-project/blob/master/images/)
+![alt text](https://github.com/Elstargo00/Income_predictor-project/blob/master/images/index.png)
 
 
-![alt text](https://github.com/Elstargo00/Income_predictor-project/blob/master/images/Screenshot%202019-11-11%20at%2015.20.39.png)
+![alt text](https://github.com/Elstargo00/Income_predictor-project/blob/master/images/register.png)
 
 
-![alt text](https://github.com/Elstargo00/Income_predictor-project/blob/master/images/Screenshot%202019-11-11%20at%2015.20.53.png)
-
-![alt text](https://github.com/Elstargo00/Income_predictor-project/blob/master/images/Screenshot%202019-11-11%20at%2015.21.02.png)
-
-![alt text](https://github.com/Elstargo00/Income_predictor-project/blob/master/images/Screenshot%202019-11-11%20at%2015.21.23.png)
-
-![alt text](https://github.com/Elstargo00/Income_predictor-project/blob/master/images/Screenshot%202019-11-11%20at%2015.21.42.png)
+![alt text](https://github.com/Elstargo00/Income_predictor-project/blob/master/images/login.png)
 
 
-![alt text](https://github.com/Elstargo00/Income_predictor-project/blob/master/images/Screenshot%202019-11-11%20at%2016.03.57.png)
+![alt text](https://github.com/Elstargo00/Income_predictor-project/blob/master/images/_withlogin_index.png)
 
 
-![alt text](https://github.com/Elstargo00/Income_predictor-project/blob/master/images/Screenshot%202019-11-11%20at%2016.12.53.png)
+![alt text](https://github.com/Elstargo00/Income_predictor-project/blob/master/images/_withlogin_task.png)
 
-![alt text](https://github.com/Elstargo00/Income_predictor-project/blob/master/images/Screenshot%202019-11-11%20at%2015.21.23.png)
+
+![alt text](https://github.com/Elstargo00/Income_predictor-project/blob/master/images/_withlogin_task-pay.png)
+
+
+![alt text](https://github.com/Elstargo00/Income_predictor-project/blob/master/images/_withlogin_profile.png)
+
+
+![alt text](https://github.com/Elstargo00/Income_predictor-project/blob/master/images/_withlogin_charge.png)
+
+
+![alt text](https://github.com/Elstargo00/Income_predictor-project/blob/master/images/_withlogin_predict.png)
+
+
+Acknowledgement: I'm not writing all codes by myself. I experiment many of copying, pasting, rewriting and debugging til it becomes my version. Many sources of code that's been copying. I really appriciate it. Surely I'll spend my whole life to contribute it back :)
