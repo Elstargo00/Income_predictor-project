@@ -2,8 +2,19 @@
 
 Income predictor is a part of my learning projects. I develop a simple machine learning model which is a logistic regression and then merge it with a web app. I use FLASK as a python web framework along with HTML/CSS to get a nice web structure and cool interface. Income predictor requires some features from users and predict back their income (a binary feedback).
 
+Let's review
 
-![alt text](https://github.com/Elstargo00/Income_predictor-project/blob/master/images/Screenshot%202019-11-11%20at%2015.20.22.png)
+1. Clone it! to your local directory
+
+2. active virtual environment "myvenv"
+
+3. initiate flask local sever
+
+4. The main files are "run.py"
+
+Here are some of the screenshots shown how it works:
+
+![alt text](https://github.com/Elstargo00/Income_predictor-project/blob/master/images/)
 
 
 ![alt text](https://github.com/Elstargo00/Income_predictor-project/blob/master/images/Screenshot%202019-11-11%20at%2015.20.39.png)
