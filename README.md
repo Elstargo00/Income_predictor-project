@@ -45,6 +45,6 @@ Here are some of the screenshots shown how it works:
 I develop machine learning model in the folder "ML_analysis". I play around with data a little bit in .ipynb (Jupyter notebook) files and use ML_model.py as a main file to create a trained model name "model.pkl" which will import in the main app. Main application is contained in folder "app". You can check for routes.py, models.py, and so on.  
 
 
-<i><h5>Acknowledgement: I'm not writing all codes by myself. I experiment many of copying, pasting, rewriting and debugging til it becomes my version. Many sources of code that's been copying. I really appriciate it. I'll give back to the world at least what I've recieved :)<h5></i>
+<i><h5>Acknowledgement: I'm not writing all codes by myself. I experiment many of copying, pasting, rewriting and debugging til it becomes my version. Many sources of code that's been copying. I really appriciate it. I'll give back to the world at least what I've recieved :)</h5></i>
   
-"GIVE BACK TO THE WORLD AT LEAST WHAT YOU'VE RECIEVED" -- Albert Einstein
+<h5>"GIVE BACK TO THE WORLD AT LEAST WHAT YOU'VE RECIEVED" -- Albert Einstein</h5>
