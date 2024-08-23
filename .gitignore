@@ -2,3 +2,9 @@
 .ipynb_checkpoints
 .vscode
 myvenv/
+__pycache__/
+.env
+*.pyc
+*.db
+venv/
+*.pkl
